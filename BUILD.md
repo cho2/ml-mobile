@@ -3,7 +3,7 @@
 
 `$ cordova create marsmellow-mobile com.marsmellow.mobile MarsmellowMobile`
 
-`$ cd jamkrindo-mobile`
+`$ cd marsmellow-mobile`
 
 `$ cordova platform add android`
 
